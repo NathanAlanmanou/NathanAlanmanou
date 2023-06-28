@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NathanAlanmanou and I am currently a student at the University of Chicago studying Computer Science and Data Science
 - 👀 I’m interested in learning and gaining experience in the field of data science
-- 🌱 I’m currently learning to utilize Pandas, Numpy, and Matplotlib to organize, visualize, and apply data in Python
-- 💞️ I’m looking to gain more experience in the field of Data Science
+- 🌱 I’m currently learning to integrate data pipelines into existing web applications
 - 📫 How to reach me: nalanmanou@uchicago.edu
 
 <!---
